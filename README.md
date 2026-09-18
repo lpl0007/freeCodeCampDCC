@@ -70,4 +70,4 @@ freeCodeCampDCC/
 - All solutions are written in Python.
 - The original challenge sequence is preserved.
 - The solutions were consolidated without intentionally refactoring them.
-- The original individual repositories have not been deleted or modified.
+- The individual challenge repositories were consolidated into this repository and are no longer maintained separately.
