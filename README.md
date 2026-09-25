@@ -21,7 +21,7 @@ A consolidated collection of 46 Python solutions from the freeCodeCamp Daily Cod
 | 013 | [Unnatural Prime](Python/013-UnnaturalPrime/) | 028 | [Roman Numeral Parser](Python/028-RomanNumeralParser/) | 043 | [Digits vs Letters](Python/043-DigitsVsLetters/) |
 | 014 | [Character Battle](Python/014-CharacterBattle/) | 029 | [Acronym Builder](Python/029-AcronymBuilder/) | 044 | [String Mirror](Python/044-StringMirror/) |
 | 015 | [camelCase](Python/015-camelCase/) | 030 | [Unique Characters](Python/030-UniqueCharacters/) | 045 | [Perfect Square](Python/045-PerfectSquare/) |
-| 046 | [2nd Largest](Python/046-2ndLargest/) |     |  |     |  |
+|     |  |     |  | 046 | [2nd Largest](Python/046-2ndLargest/) |
 
 ## Structure
 
