@@ -1,4 +1,4 @@
-def second_largest(numbers):
+def secondLargest(numbers):
     largest = float("-inf")
     second = float("-inf")
 
